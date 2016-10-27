@@ -1,0 +1,16 @@
+{
+  "name": "beer-dinner",
+  "version": "1.0.0",
+  "description": "a static site for a beer pairing dinner service",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beer",
+    "catering",
+    "pairings"
+  ],
+  "author": "riggan",
+  "license": "MIT"
+}

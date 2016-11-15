@@ -12,5 +12,20 @@
     "pairings"
   ],
   "author": "riggan",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigganhart/charleston-beer-pairings.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rigganhart/charleston-beer-pairings/issues"
+  },
+  "homepage": "https://github.com/rigganhart/charleston-beer-pairings#readme"
 }
